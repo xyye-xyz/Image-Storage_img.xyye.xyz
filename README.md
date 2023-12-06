@@ -11,6 +11,8 @@
 ## 服务器
 搭建在我的香港服务器上，8C8G，上下30M带宽，国内三线直连+BGP
 图床链接自动转换为WebP格式
+Itdog全国HTTP缓慢测试：
+![itdogtest](https://img.xyye.xyz/img/img/657041a32a953.webp)
 
 ## 限制
 未注册每日最多20张，每张照片最大5MB
